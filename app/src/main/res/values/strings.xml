@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="pwd">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="uname">Email/Phone number</string>
+    <string name="heading">Signin Fragment</string>
+    <string name="fname">Full Name</string>
+    <string name="phonenum">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="cpwd">Confirm Password</string>
+    <string name="checkbox">By creating this account you agree to our Terms &amp; Conditions</string>
+    <string name="next">Next</string>
+    <string-array name="countrycodes">
+        <item>+91</item>
+        <item>+93</item>
+        <item>+355</item>
+        <item>+1684</item>
+        <item>+376</item>
+        <item>+244</item>
+        <item>+1264</item>
+        <item>+672</item>
+        <item>+43</item>
+        <item>+1242</item>
+        <item>+975</item>
+    </string-array>
+
+</resources>
